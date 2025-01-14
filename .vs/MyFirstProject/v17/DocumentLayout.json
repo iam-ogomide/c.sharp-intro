@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dogomide\\sources\\C# Tuts\\MyFirstProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{268BC3D9-40F9-4118-8239-FDBE9C786291}|MyFirstProject\\MyFirstProject.csproj|c:\\users\\dogomide\\sources\\c# tuts\\myfirstproject\\myfirstproject\\tut31.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{268BC3D9-40F9-4118-8239-FDBE9C786291}|MyFirstProject\\MyFirstProject.csproj|solutionrelative:myfirstproject\\tut31.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{268BC3D9-40F9-4118-8239-FDBE9C786291}|MyFirstProject\\MyFirstProject.csproj|C:\\Users\\dogomide\\sources\\C# Tuts\\MyFirstProject\\myfirstproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{268BC3D9-40F9-4118-8239-FDBE9C786291}|MyFirstProject\\MyFirstProject.csproj|solutionrelative:myfirstproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 302,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "tut31.cs",
+              "DocumentMoniker": "C:\\Users\\dogomide\\sources\\C# Tuts\\MyFirstProject\\MyFirstProject\\tut31.cs",
+              "RelativeDocumentMoniker": "MyFirstProject\\tut31.cs",
+              "ToolTip": "C:\\Users\\dogomide\\sources\\C# Tuts\\MyFirstProject\\MyFirstProject\\tut31.cs",
+              "RelativeToolTip": "MyFirstProject\\tut31.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T22:55:12.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dogomide\\sources\\C# Tuts\\MyFirstProject\\MyFirstProject\\Program.cs",
+              "RelativeDocumentMoniker": "MyFirstProject\\Program.cs",
+              "ToolTip": "C:\\Users\\dogomide\\sources\\C# Tuts\\MyFirstProject\\MyFirstProject\\Program.cs",
+              "RelativeToolTip": "MyFirstProject\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwB4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T22:50:37.061Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
